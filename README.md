@@ -5,7 +5,7 @@
 
 * For Front-End (client side) - I have used - `React Bootstrap`, `Firebase Authentication`
 
-* For Back-end - I have used - `Express.JS`, along with `Heroku App`
+* For Back-end - I have used - `Express.JS`, along with `Netlify App`
 
 * For Database - I have used - `MongoDB`.
 
@@ -17,13 +17,13 @@
 
 * Basic `Banner` is added as well. 
 
-* [Click Here for Live Link / Website - Client Side - (Firebase)](https://holiday-dreams.web.app/)
+* [Click Here for Live Link / Website - Client Side - (Firebase)](https://dreamtrailtour.netlify.app/)
 
 
 ### Technology Used
 
 * Node , Express
-* Firebase , Heroku
+* Firebase , Netlify
 * Google Firebase
 * React JS
 * React Router
@@ -32,6 +32,6 @@
 * JavaScript (ES6)
 * Fontawesome 6 Beta
 
-* Screenshot of Live Site -
+<!-- * Screenshot of Live Site -
 
-![alt text](public/demo.png)
+![alt text](public/demo.png) -->
