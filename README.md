@@ -1,5 +1,3 @@
-# Simple Site of 'Travel Related Service' (Holiday Dreams) - Assignment (Milestone - 11)
-# This Repo is for 'Client Side'
 
 * This Assignment is mainly on `Node` , `Express` , `MongoDB`, `React Router` along with `Firebase`.
 
